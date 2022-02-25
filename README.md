@@ -16,10 +16,11 @@
 - Запустить файл *app.py*
 
 ```
+$ cd application
 $ python app.py
 ```
 
-![example]()
+![example](https://github.com/Fsoky/GUI-Weather/blob/main/images/example.png)
 
 ### Присоединяйся к нам
 [![Vkontakte](https://img.shields.io/badge/Vkontakte-black?style=for-the-badge&logo=VK)](https://vk.com/fsoky)
