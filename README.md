@@ -9,6 +9,8 @@
  ```
 
 ## Использование 🎈
+- Зарегистрироваться на [openweathermap.org](https://home.openweathermap.org)
+- Получить [API KEY](https://home.openweathermap.org/api_keys)
 - Переименовать `.env.example` в `.env`
 - Записать ваш *API KEY* в `.env`
 - Запустить файл *app.py*
@@ -16,6 +18,8 @@
 ```
 $ python app.py
 ```
+
+![example]()
 
 ### Присоединяйся к нам
 [![Vkontakte](https://img.shields.io/badge/Vkontakte-black?style=for-the-badge&logo=VK)](https://vk.com/fsoky)
